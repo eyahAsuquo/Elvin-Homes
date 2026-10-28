@@ -1,0 +1,6 @@
+{
+  "name": "Elvins Properties & Consultant Real Estate Academy",
+  "description": "Property marketing, inspection booking, and professional real estate training registration platform for Elvins Properties and Consultant Real Estate Academy in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
